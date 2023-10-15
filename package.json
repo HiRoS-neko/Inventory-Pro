@@ -1,0 +1,13 @@
+{
+  "name": "io.devdog.inv-pro",
+  "version": "2.5.16",
+  "displayName": "DevDog Inventory Pro",
+  "description": "With Los Pro you can detect any target (Skinned meshes, static meshes, 2D sprites and any game object).\r\n\r\nUsing the powerful editors, you can easily set up your desired system, and by either automatically scanning for positions or manually defining them, you'll have everything ready in a matter of minutes.",
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "path": "Demos~"
+    }
+  ]
+}

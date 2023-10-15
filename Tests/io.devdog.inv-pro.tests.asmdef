@@ -1,0 +1,18 @@
+{
+    "name": "io.devdog.inv-pro.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5d29abc4f80848bca881f1e0ea14071e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
